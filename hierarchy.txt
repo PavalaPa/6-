@@ -1,0 +1,1215 @@
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv
+File: pyvenv.cfg
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\pyvenv.cfg
+Size: 430 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages
+File: typing_extensions.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\typing_extensions.py
+Size: 110125 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types\__init__.py
+Size: 12151 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types\__pycache__\__init__.cpython-310.pyc
+Size: 13100 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types-0.6.0.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types-0.6.0.dist-info\METADATA
+Size: 12879 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types-0.6.0.dist-info\licenses
+File: LICENSE
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\annotated_types-0.6.0.dist-info\licenses\LICENSE
+Size: 1083 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio
+File: from_thread.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\from_thread.py
+Size: 16563 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\abc
+File: _streams.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\abc\_streams.py
+Size: 6584 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\abc\__pycache__
+File: _streams.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\abc\__pycache__\_streams.cpython-310.pyc
+Size: 7462 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\streams
+File: tls.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\streams\tls.py
+Size: 12099 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\streams\__pycache__
+File: tls.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\streams\__pycache__\tls.cpython-310.pyc
+Size: 10678 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_backends
+File: _asyncio.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_backends\_asyncio.py
+Size: 67056 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_backends\__pycache__
+File: _asyncio.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_backends\__pycache__\_asyncio.cpython-310.pyc
+Size: 58736 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_core
+File: _sockets.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_core\_sockets.py
+Size: 20667 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_core\__pycache__
+File: _fileio.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\_core\__pycache__\_fileio.cpython-310.pyc
+Size: 22386 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\__pycache__
+File: from_thread.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio\__pycache__\from_thread.cpython-310.pyc
+Size: 16499 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio-3.7.1.dist-info
+File: RECORD
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\anyio-3.7.1.dist-info\RECORD
+Size: 5527 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\certifi
+File: cacert.pem
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\certifi\cacert.pem
+Size: 281617 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\certifi\__pycache__
+File: core.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\certifi\__pycache__\core.cpython-310.pyc
+Size: 1900 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\certifi-2023.7.22.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\certifi-2023.7.22.dist-info\METADATA
+Size: 2191 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer
+File: md__mypyc.cp310-win_amd64.pyd
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\md__mypyc.cp310-win_amd64.pyd
+Size: 114176 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\assets
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\assets\__init__.py
+Size: 21509 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\assets\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\assets\__pycache__\__init__.cpython-310.pyc
+Size: 10422 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\cli
+File: normalizer.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\cli\normalizer.py
+Size: 10040 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\cli\__pycache__
+File: normalizer.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\cli\__pycache__\normalizer.cpython-310.pyc
+Size: 6476 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\__pycache__
+File: constant.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer\__pycache__\constant.cpython-310.pyc
+Size: 17399 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer-3.2.0.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\charset_normalizer-3.2.0.dist-info\METADATA
+Size: 31912 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\exceptiongroup
+File: _formatting.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\exceptiongroup\_formatting.py
+Size: 21005 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\exceptiongroup\__pycache__
+File: _formatting.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\exceptiongroup\__pycache__\_formatting.cpython-310.pyc
+Size: 12225 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info\METADATA
+Size: 6603 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi
+File: applications.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\applications.py
+Size: 179073 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\dependencies
+File: utils.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\dependencies\utils.py
+Size: 30175 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\dependencies\__pycache__
+File: utils.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\dependencies\__pycache__\utils.cpython-310.pyc
+Size: 18580 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\middleware
+File: asyncexitstack.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py
+Size: 1035 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\middleware\__pycache__
+File: asyncexitstack.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\middleware\__pycache__\asyncexitstack.cpython-310.pyc
+Size: 1235 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\openapi
+File: utils.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\openapi\utils.py
+Size: 22303 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\openapi\__pycache__
+File: models.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\openapi\__pycache__\models.cpython-310.pyc
+Size: 19915 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\security
+File: oauth2.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\security\oauth2.py
+Size: 21612 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\security\__pycache__
+File: oauth2.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\security\__pycache__\oauth2.cpython-310.pyc
+Size: 15502 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\__pycache__
+File: applications.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi\__pycache__\applications.cpython-310.pyc
+Size: 69116 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi-0.105.0.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi-0.105.0.dist-info\METADATA
+Size: 24944 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi-0.105.0.dist-info\licenses
+File: LICENSE
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\fastapi-0.105.0.dist-info\licenses\LICENSE
+Size: 1086 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\idna
+File: uts46data.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\idna\uts46data.py
+Size: 206539 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\idna\__pycache__
+File: uts46data.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\idna\__pycache__\uts46data.cpython-310.pyc
+Size: 152386 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\idna-3.4.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\idna-3.4.dist-info\METADATA
+Size: 9830 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip
+File: __main__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\__main__.py
+Size: 1198 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal
+File: configuration.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\configuration.py
+Size: 13153 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\cli
+File: cmdoptions.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\cli\cmdoptions.py
+Size: 28391 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\cli\__pycache__
+File: cmdoptions.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\cli\__pycache__\cmdoptions.cpython-310.pyc
+Size: 22414 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\commands
+File: install.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\commands\install.py
+Size: 27851 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\commands\__pycache__
+File: install.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\commands\__pycache__\install.cpython-310.pyc
+Size: 17784 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\distributions
+File: sdist.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\distributions\sdist.py
+Size: 5598 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\distributions\__pycache__
+File: sdist.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\distributions\__pycache__\sdist.cpython-310.pyc
+Size: 4537 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\index
+File: package_finder.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\index\package_finder.py
+Size: 36344 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\index\__pycache__
+File: package_finder.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\index\__pycache__\package_finder.cpython-310.pyc
+Size: 28133 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\locations
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\locations\__init__.py
+Size: 14444 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\locations\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\locations\__pycache__\__init__.cpython-310.pyc
+Size: 10485 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\metadata
+File: base.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\metadata\base.py
+Size: 11103 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\metadata\__pycache__
+File: base.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\metadata\__pycache__\base.cpython-310.pyc
+Size: 12732 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\models
+File: link.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\models\link.py
+Size: 9817 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\models\__pycache__
+File: link.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\models\__pycache__\link.cpython-310.pyc
+Size: 10161 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\network
+File: session.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\network\session.py
+Size: 16729 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\network\__pycache__
+File: session.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\network\__pycache__\session.cpython-310.pyc
+Size: 10734 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations
+File: prepare.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\prepare.py
+Size: 23838 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\build
+File: wheel_legacy.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\build\wheel_legacy.py
+Size: 3047 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\build\__pycache__
+File: wheel_legacy.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\build\__pycache__\wheel_legacy.cpython-310.pyc
+Size: 2752 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\install
+File: wheel.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\install\wheel.py
+Size: 27412 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\install\__pycache__
+File: wheel.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\install\__pycache__\wheel.cpython-310.pyc
+Size: 21093 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\__pycache__
+File: prepare.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\operations\__pycache__\prepare.cpython-310.pyc
+Size: 14781 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\req
+File: req_install.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\req\req_install.py
+Size: 33804 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\req\__pycache__
+File: req_install.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\req\__pycache__\req_install.cpython-310.pyc
+Size: 22809 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution
+File: base.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\base.py
+Size: 583 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\legacy
+File: resolver.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\legacy\resolver.py
+Size: 18312 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+File: factory.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\resolvelib\factory.py
+Size: 26806 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\resolvelib\__pycache__
+File: factory.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\resolvelib\__pycache__\factory.cpython-310.pyc
+Size: 18475 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\__pycache__
+File: base.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\resolution\__pycache__\base.cpython-310.pyc
+Size: 1048 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\utils
+File: misc.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\utils\misc.py
+Size: 20432 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\utils\__pycache__
+File: misc.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\utils\__pycache__\misc.cpython-310.pyc
+Size: 20828 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\vcs
+File: versioncontrol.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\vcs\versioncontrol.py
+Size: 22414 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\vcs\__pycache__
+File: versioncontrol.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\vcs\__pycache__\versioncontrol.cpython-310.pyc
+Size: 20855 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\__pycache__
+File: exceptions.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_internal\__pycache__\exceptions.cpython-310.pyc
+Size: 16117 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor
+File: pyparsing.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pyparsing.py
+Size: 273394 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol
+File: controller.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\controller.py
+Size: 14149 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+File: file_cache.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py
+Size: 4153 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__pycache__
+File: file_cache.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__pycache__\file_cache.cpython-310.pyc
+Size: 3351 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\__pycache__
+File: controller.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\cachecontrol\__pycache__\controller.cpython-310.pyc
+Size: 7777 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\certifi
+File: cacert.pem
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\certifi\cacert.pem
+Size: 259465 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\certifi\__pycache__
+File: core.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\certifi\__pycache__\core.cpython-310.pyc
+Size: 1549 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet
+File: langrussianmodel.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\langrussianmodel.py
+Size: 131180 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\cli
+File: chardetect.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\cli\chardetect.py
+Size: 2747 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\metadata
+File: languages.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\metadata\languages.py
+Size: 19474 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\__pycache__
+File: langrussianmodel.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\chardet\__pycache__\langrussianmodel.cpython-310.pyc
+Size: 61015 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\colorama
+File: ansitowin32.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py
+Size: 10517 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\colorama\__pycache__
+File: ansitowin32.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\colorama\__pycache__\ansitowin32.cpython-310.pyc
+Size: 7902 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\distlib
+File: t64-arm.exe
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\distlib\t64-arm.exe
+Size: 180736 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+File: tarfile.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py
+Size: 92628 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\distlib\__pycache__
+File: util.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\distlib\__pycache__\util.cpython-310.pyc
+Size: 52574 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib
+File: html5parser.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py
+Size: 117186 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+File: sanitizer.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py
+Size: 26897 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters
+File: sax.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py
+Size: 1776 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders
+File: etree_lxml.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py
+Size: 14766 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__pycache__
+File: etree.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__pycache__\etree.cpython-310.pyc
+Size: 11714 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+File: base.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py
+Size: 7476 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__pycache__\__init__.cpython-310.pyc
+Size: 3982 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\_trie
+File: py.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py
+Size: 1775 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\_trie\__pycache__
+File: py.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\_trie\__pycache__\py.cpython-310.pyc
+Size: 2267 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\__pycache__
+File: constants.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\html5lib\__pycache__\constants.cpython-310.pyc
+Size: 161261 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\idna
+File: uts46data.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\idna\uts46data.py
+Size: 201849 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\idna\__pycache__
+File: idnadata.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\idna\__pycache__\idnadata.cpython-310.pyc
+Size: 35676 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\msgpack
+File: fallback.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\msgpack\fallback.py
+Size: 38026 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\msgpack\__pycache__
+File: fallback.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\msgpack\__pycache__\fallback.cpython-310.pyc
+Size: 26442 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\packaging
+File: specifiers.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\packaging\specifiers.py
+Size: 30964 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\packaging\__pycache__
+File: specifiers.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\packaging\__pycache__\specifiers.cpython-310.pyc
+Size: 22188 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517
+File: wrappers.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\wrappers.py
+Size: 13429 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\in_process
+File: _in_process.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\in_process\_in_process.py
+Size: 11201 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\in_process\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\in_process\__pycache__\__init__.cpython-310.pyc
+Size: 921 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\__pycache__
+File: wrappers.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pep517\__pycache__\wrappers.cpython-310.pyc
+Size: 12306 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pkg_resources
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py
+Size: 108287 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pkg_resources\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\pkg_resources\__pycache__\__init__.cpython-310.pyc
+Size: 99890 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\platformdirs
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\platformdirs\__init__.py
+Size: 12859 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\platformdirs\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\platformdirs\__pycache__\__init__.cpython-310.pyc
+Size: 11011 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\progress
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\progress\__init__.py
+Size: 5294 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\progress\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\progress\__pycache__\__init__.cpython-310.pyc
+Size: 5732 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\requests
+File: models.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\requests\models.py
+Size: 34924 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\requests\__pycache__
+File: models.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\requests\__pycache__\models.cpython-310.pyc
+Size: 24426 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib
+File: resolvers.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers.py
+Size: 17540 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\compat
+File: collections_abc.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\compat\collections_abc.py
+Size: 156 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\compat\__pycache__
+File: collections_abc.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\compat\__pycache__\collections_abc.cpython-310.pyc
+Size: 377 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\__pycache__
+File: resolvers.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\resolvelib\__pycache__\resolvers.cpython-310.pyc
+Size: 15087 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tenacity
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tenacity\__init__.py
+Size: 18257 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tenacity\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tenacity\__pycache__\__init__.cpython-310.pyc
+Size: 16374 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tomli
+File: _parser.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tomli\_parser.py
+Size: 22415 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tomli\__pycache__
+File: _parser.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\tomli\__pycache__\_parser.cpython-310.pyc
+Size: 16333 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3
+File: connectionpool.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py
+Size: 37587 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+File: securetransport.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\securetransport.py
+Size: 34449 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+File: bindings.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+Size: 17649 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\__pycache__
+File: socks.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\__pycache__\socks.cpython-310.pyc
+Size: 5601 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+File: six.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py
+Size: 34666 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+File: makefile.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports\makefile.py
+Size: 1417 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname
+File: _implementation.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\_implementation.py
+Size: 5679 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\__pycache__
+File: _implementation.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname\__pycache__\_implementation.cpython-310.pyc
+Size: 3301 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\__pycache__
+File: six.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\packages\__pycache__\six.cpython-310.pyc
+Size: 27664 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\util
+File: retry.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+Size: 21391 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\util\__pycache__
+File: retry.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\util\__pycache__\retry.cpython-310.pyc
+Size: 15782 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\__pycache__
+File: connectionpool.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\urllib3\__pycache__\connectionpool.cpython-310.pyc
+Size: 24723 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\webencodings
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\webencodings\__init__.py
+Size: 10579 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\webencodings\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\webencodings\__pycache__\__init__.cpython-310.pyc
+Size: 9746 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\__pycache__
+File: pyparsing.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\_vendor\__pycache__\pyparsing.cpython-310.pyc
+Size: 237851 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip\__pycache__\__init__.cpython-310.pyc
+Size: 631 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip-21.3.1.dist-info
+File: RECORD
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pip-21.3.1.dist-info\RECORD
+Size: 60357 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\__init__.py
+Size: 108573 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\extern
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\extern\__init__.py
+Size: 2362 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\extern\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\extern\__pycache__\__init__.cpython-310.pyc
+Size: 2901 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source
+File: setup.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source\setup.py
+Size: 104 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor
+File: pyparsing.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py
+Size: 232055 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+File: specifiers.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py
+Size: 30964 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+File: specifiers.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__\specifiers.cpython-310.pyc
+Size: 22198 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__
+File: pyparsing.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__\pyparsing.cpython-310.pyc
+Size: 198826 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pkg_resources\__pycache__\__init__.cpython-310.pyc
+Size: 100615 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic
+File: json_schema.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\json_schema.py
+Size: 100969 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\deprecated
+File: decorator.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\deprecated\decorator.py
+Size: 10903 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\deprecated\__pycache__
+File: class_validators.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\deprecated\__pycache__\class_validators.cpython-310.pyc
+Size: 9798 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\plugin
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\plugin\__init__.py
+Size: 6115 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\plugin\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\plugin\__pycache__\__init__.cpython-310.pyc
+Size: 7314 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\v1
+File: fields.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\v1\fields.py
+Size: 50488 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\v1\__pycache__
+File: fields.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\v1\__pycache__\fields.cpython-310.pyc
+Size: 34742 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\_internal
+File: _generate_schema.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\_internal\_generate_schema.py
+Size: 96517 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\_internal\__pycache__
+File: _generate_schema.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\_internal\__pycache__\_generate_schema.cpython-310.pyc
+Size: 65180 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\__pycache__
+File: json_schema.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic\__pycache__\json_schema.cpython-310.pyc
+Size: 76478 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic-2.5.2.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic-2.5.2.dist-info\METADATA
+Size: 65208 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic-2.5.2.dist-info\licenses
+File: LICENSE
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic-2.5.2.dist-info\licenses\LICENSE
+Size: 1129 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core
+File: _pydantic_core.cp310-win_amd64.pyd
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core\_pydantic_core.cp310-win_amd64.pyd
+Size: 5130752 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core\__pycache__
+File: core_schema.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core\__pycache__\core_schema.cpython-310.pyc
+Size: 116921 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core-2.14.5.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core-2.14.5.dist-info\METADATA
+Size: 6640 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core-2.14.5.dist-info\license_files
+File: LICENSE
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pydantic_core-2.14.5.dist-info\license_files\LICENSE
+Size: 1101 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pyTelegramBotAPI-4.14.0.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\pyTelegramBotAPI-4.14.0.dist-info\METADATA
+Size: 46250 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\requests
+File: models.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\requests\models.py
+Size: 35223 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\requests\__pycache__
+File: utils.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\requests\__pycache__\utils.cpython-310.pyc
+Size: 24423 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\requests-2.31.0.dist-info
+File: LICENSE
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\requests-2.31.0.dist-info\LICENSE
+Size: 10142 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools
+File: gui-arm64.exe
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\gui-arm64.exe
+Size: 137728 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\command
+File: easy_install.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\command\easy_install.py
+Size: 85791 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\command\__pycache__
+File: easy_install.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\command\__pycache__\easy_install.cpython-310.pyc
+Size: 63985 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\extern
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\extern\__init__.py
+Size: 2407 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\extern\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\extern\__pycache__\__init__.cpython-310.pyc
+Size: 2940 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils
+File: dist.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\dist.py
+Size: 50421 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\command
+File: bdist_msi.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\command\bdist_msi.py
+Size: 35579 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\command\__pycache__
+File: install.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\command\__pycache__\install.cpython-310.pyc
+Size: 16999 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\__pycache__
+File: dist.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_distutils\__pycache__\dist.cpython-310.pyc
+Size: 34057 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor
+File: pyparsing.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\pyparsing.py
+Size: 232055 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+File: more.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\more_itertools\more.py
+Size: 117968 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\more_itertools\__pycache__
+File: more.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\more_itertools\__pycache__\more.cpython-310.pyc
+Size: 110001 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\packaging
+File: specifiers.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\packaging\specifiers.py
+Size: 30964 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\packaging\__pycache__
+File: specifiers.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\packaging\__pycache__\specifiers.cpython-310.pyc
+Size: 22195 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\__pycache__
+File: ordered_set.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\_vendor\__pycache__\ordered_set.cpython-310.pyc
+Size: 16326 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\__pycache__
+File: msvc.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools\__pycache__\msvc.cpython-310.pyc
+Size: 42643 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+File: RECORD
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\setuptools-60.2.0.dist-info\RECORD
+Size: 21957 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio
+File: _impl.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\_impl.py
+Size: 2843 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\_tests
+File: test_sniffio.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\_tests\test_sniffio.py
+Size: 2110 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\_tests\__pycache__
+File: test_sniffio.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\_tests\__pycache__\test_sniffio.cpython-310.pyc
+Size: 2144 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\__pycache__
+File: _impl.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio\__pycache__\_impl.cpython-310.pyc
+Size: 2679 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio-1.3.0.dist-info
+File: LICENSE.APACHE2
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\sniffio-1.3.0.dist-info\LICENSE.APACHE2
+Size: 11358 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette
+File: routing.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\routing.py
+Size: 32447 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\middleware
+File: errors.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\middleware\errors.py
+Size: 7833 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\middleware\__pycache__
+File: errors.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\middleware\__pycache__\errors.cpython-310.pyc
+Size: 7343 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\__pycache__
+File: datastructures.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette\__pycache__\datastructures.cpython-310.pyc
+Size: 27064 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette-0.27.0.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette-0.27.0.dist-info\METADATA
+Size: 5836 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette-0.27.0.dist-info\licenses
+File: LICENSE.md
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\starlette-0.27.0.dist-info\licenses\LICENSE.md
+Size: 1518 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot
+File: types.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\types.py
+Size: 327666 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\asyncio_storage
+File: redis_storage.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\asyncio_storage\redis_storage.py
+Size: 5868 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\asyncio_storage\__pycache__
+File: redis_storage.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\asyncio_storage\__pycache__\redis_storage.cpython-310.pyc
+Size: 5163 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext
+File: reloader.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\reloader.py
+Size: 826 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\aio
+File: webhooks.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\aio\webhooks.py
+Size: 3788 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\aio\__pycache__
+File: webhooks.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\aio\__pycache__\webhooks.cpython-310.pyc
+Size: 3900 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\sync
+File: webhooks.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\sync\webhooks.py
+Size: 3513 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\sync\__pycache__
+File: webhooks.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\sync\__pycache__\webhooks.cpython-310.pyc
+Size: 3647 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\__pycache__
+File: reloader.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\ext\__pycache__\reloader.cpython-310.pyc
+Size: 1267 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\storage
+File: redis_storage.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\storage\redis_storage.py
+Size: 5593 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\storage\__pycache__
+File: redis_storage.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\storage\__pycache__\redis_storage.cpython-310.pyc
+Size: 4921 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\__pycache__
+File: types.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\telebot\__pycache__\types.cpython-310.pyc
+Size: 284873 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\typing_extensions-4.9.0.dist-info
+File: LICENSE
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\typing_extensions-4.9.0.dist-info\LICENSE
+Size: 13936 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3
+File: connectionpool.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\connectionpool.py
+Size: 42961 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib
+File: securetransport.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\securetransport.py
+Size: 34121 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\_securetransport
+File: low_level.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\_securetransport\low_level.py
+Size: 16220 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\_securetransport\__pycache__
+File: low_level.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\_securetransport\__pycache__\low_level.cpython-310.pyc
+Size: 11457 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\__pycache__
+File: securetransport.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\contrib\__pycache__\securetransport.cpython-310.pyc
+Size: 22179 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\util
+File: ssl_.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\util\ssl_.py
+Size: 19244 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\util\__pycache__
+File: retry.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\util\__pycache__\retry.cpython-310.pyc
+Size: 15678 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\__pycache__
+File: response.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3\__pycache__\response.cpython-310.pyc
+Size: 30823 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3-2.0.5.dist-info
+File: METADATA
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3-2.0.5.dist-info\METADATA
+Size: 6591 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3-2.0.5.dist-info\licenses
+File: LICENSE.txt
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\urllib3-2.0.5.dist-info\licenses\LICENSE.txt
+Size: 1093 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel
+File: bdist_wheel.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\bdist_wheel.py
+Size: 19075 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\cli
+File: convert.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\cli\convert.py
+Size: 9498 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\cli\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\cli\__pycache__\__init__.cpython-310.pyc
+Size: 3051 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\__init__.py
+Size: 0 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\packaging
+File: tags.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\packaging\tags.py
+Size: 29560 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\packaging\__pycache__
+File: tags.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\packaging\__pycache__\tags.cpython-310.pyc
+Size: 18640 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\vendored\__pycache__\__init__.cpython-310.pyc
+Size: 186 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\__pycache__
+File: bdist_wheel.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel\__pycache__\bdist_wheel.cpython-310.pyc
+Size: 13156 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel-0.37.1.dist-info
+File: RECORD
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\wheel-0.37.1.dist-info\RECORD
+Size: 2657 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\_distutils_hack
+File: __init__.py
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\_distutils_hack\__init__.py
+Size: 4741 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\_distutils_hack\__pycache__
+File: __init__.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\_distutils_hack\__pycache__\__init__.cpython-310.pyc
+Size: 5808 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\__pycache__
+File: typing_extensions.cpython-310.pyc
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Lib\site-packages\__pycache__\typing_extensions.cpython-310.pyc
+Size: 87868 bytes
+
+Folder: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Scripts
+File: python.exe
+Path: C:\Users\valentinka\PycharmProjects\NyanBot\venv\Scripts\python.exe
+Size: 242408 bytes
+
